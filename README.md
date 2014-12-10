@@ -14,7 +14,6 @@ weekly-feed
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Dev Weekly](http://www.webdevweekly.com/)
-- [AngularJS Daily](http://www.angularjsdaily.com/)
 - [ng-newsletter](http://www.ng-newsletter.com/)
 - [Backbone Weekly](http://backboneweekly.com/)
 - [码农周刊](http://weekly.manong.io/issues/)
