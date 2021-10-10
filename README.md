@@ -14,9 +14,9 @@ weekly-feed
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Dev Weekly](http://www.webdevweekly.com/)
-- [ng-newsletter](http://www.ng-newsletter.com/)
+- [ng-newsletter](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/)
 - [码农周刊](http://weekly.manong.io/issues/)
-- [奇舞周刊](http://www.75team.com/weekly/)
+- [奇舞周刊](https://weekly.75.team/)
 - [前端乱炖周刊](http://www.html-js.com/static/htmljs-weekly-1.html)
 - [码农周刊](http://weekly.manong.io/) - 并不都是前端相关的内容。
 
