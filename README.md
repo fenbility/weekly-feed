@@ -15,10 +15,8 @@ weekly-feed
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [Web Dev Weekly](http://www.webdevweekly.com/)
 - [ng-newsletter](http://www.ng-newsletter.com/)
-- [Backbone Weekly](http://backboneweekly.com/)
 - [码农周刊](http://weekly.manong.io/issues/)
 - [奇舞周刊](http://www.75team.com/weekly/)
-- [Web Performance News](http://www.webperformancenews.com/)
 - [前端乱炖周刊](http://www.html-js.com/static/htmljs-weekly-1.html)
 - [码农周刊](http://weekly.manong.io/) - 并不都是前端相关的内容。
 
